@@ -65,35 +65,41 @@ wget "https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.9.tar.xz"
 
 ![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/13.png "Im1")
 
+Otra forma es usando la instrucción **sudo install** para instalar un paquete llamado **linux-source-version**, que en este caso se usa la version 5.9, y se descargará en la direccion /usr/src
+
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/14.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/15.png "Im1")
+
+
 ## 5. **¿Cómo extraer el código comprimido del kernel desde terminal?**
 
 tar avxf linux-5.9.tar.xz
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/14.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/16.png "Im1")
 
 ## 6. **¿Cómo configurar el kernel?**
 
 El comando sysctl permite la visualización de los parámetros del kernel , además de también configurar los parámetros del kernel .
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/15.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/17.png "Im1")
 
 ## 7. **¿Cómo compilar el código del kernel?**
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/16.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/18.png "Im1")
 
 ## 8. **¿Cómo instalar módulos?**
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/17.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/19.png "Im1")
 
 ## 9. **¿Cómo instalar el kernel?**
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/18.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/20.png "Im1")
 
 ## 10. **¿Cómo indicarle a la computadora con cuál kernel debe iniciar?**
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/19.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/21.png "Im1")
 
 ## 11. **¿Cómo verificar el cambio de kernel a partir de consola?**
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/20.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/22.png "Im1")
 
