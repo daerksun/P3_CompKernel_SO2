@@ -44,7 +44,7 @@ En linux , a partir de la versión 2.6 se establecieron ciertos cambios en la no
 
 Segun el manual consultado, para que sea exitosa la compilacion del kernel se requiere instalar tres paquetes, **build-essential, libncurse5-dev fakeroot**, con la instrucción **sudo apt-get install**.
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2.git/blob/main/Im/3.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2.git/Im/3.png "Im1")
 
 
 4. ¿Cómo descargar una versión de kernel desde terminal?.
