@@ -34,17 +34,19 @@ Se habrá generado con exito nuestra maquina virtual
 
 
 2. Explicar la nomenclatura del kernel.
-Se podría conocer al kernel , como el corazón de cualquier sistema operativo , ya que este en su mayor parte es quien se encarga tanto del software y el hardware de un sistema y puedan interactuar de la mejor forma posible entre estos .
-En linux , a partir de la versión 2.6 se establecieron ciertos cambios en la nomenclatura , para un manejo más sencillo de esta que se caracteriza por la siguiente AA.BB.CC.DD  donde :
+
+Se podría conocer al kernel , como el corazón de cualquier sistema operativo , ya que este en su mayor parte es quien se encarga tanto del software y el hardware de un sistema y puedan interactuar de la mejor forma posible entre estos.
+En linux , a partir de la versión 2.6 se establecieron ciertos cambios en la nomenclatura , para un manejo más sencillo de esta que se caracteriza por la siguiente AA.BB.CC.DD  donde:
     AA. Nos indica la versión del Kernel
     BB. Nos indica la revisión actual del Kernel
-    CC. Nos proporciona información sobre si el núcleo cuenta con revisiones menores,      como los son los drivers .
+    CC. Nos proporciona información sobre si el núcleo cuenta con revisiones menores, como los son los drivers.
     DD. Nos indica los arreglos de fallos en el kernel y sus actualizaciones
-##**3. Enlistar paquetes requerido para la compilación y ¿cómo instalarlos desde terminal?**
+
+## 3. **Enlistar paquetes requerido para la compilación y ¿cómo instalarlos desde terminal?**
 
 Segun el manual consultado, para que sea exitosa la compilacion del kernel se requiere instalar tres paquetes, **build-essential, libncurse5-dev fakeroot**, con la instrucción **sudo apt-get install**.
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2.git/tree/main/Im/3.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/3.png "Im1")
 
 
 4. ¿Cómo descargar una versión de kernel desde terminal?.
