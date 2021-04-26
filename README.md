@@ -79,9 +79,14 @@ tar avxf linux-5.9.tar.xz
 
 ## 6. **¿Cómo configurar el kernel?**
 
-El comando sysctl permite la visualización de los parámetros del kernel , además de también configurar los parámetros del kernel .
+Para cambiar la configuracion del kernel que acabamos de descomprimir usamos la funcion **make menuconfig**, la cual nos desplegara un menu grafico donde se pueden apreciar todos los parametros modificables
 
-![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/17.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/23.png "Im1")
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/24.png "Im1")
+
+Al final se modifica el archivo .conf
+
+![alt text](https://github.com/daerksun/P3_CompKernel_SO2/blob/main/Im/25.png "Im1")
 
 ## 7. **¿Cómo compilar el código del kernel?**
 
